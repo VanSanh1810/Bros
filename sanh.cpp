@@ -1,7 +1,9 @@
 //cac
-<<<<<<< HEAD
 // hey
-=======
-// :))))
+#include <iostream>
+using namespace std;
 
->>>>>>> cc2aee14d5a51b82b1facf623c1a3cad57a47a0d
+int main(){
+    cout << "HELLO";
+    return 0;
+}
