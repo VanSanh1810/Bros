@@ -29,3 +29,7 @@ void ReadFile(string &A, string &B){
 	fi.close();
 
 }
+
+void Check(){
+	cout << "success";
+}
